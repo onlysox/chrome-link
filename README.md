@@ -1,4 +1,4 @@
 # chrome-link
 chrome://sync-internals/
 test
-      [chrome://sync-internals/]
+      [link here](chrome://sync-internals/)
